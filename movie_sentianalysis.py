@@ -25,4 +25,4 @@ if classResult == 'pos':
 print('Positive: ' + str(float(pos)/len(words)))
 print('Negative: ' + str(float(neg)/len(words)))
 print('Overall Sentiment is : ' , (float(pos)/len(words)) - (float(neg)/len(words)))
-4
+
